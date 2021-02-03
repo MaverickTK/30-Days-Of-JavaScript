@@ -38,9 +38,6 @@
 
 <div align="center">
   <h1> 30 Days Of JavaScript: Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
